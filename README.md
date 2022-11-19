@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my physics bachelor
+- 🔭 I’m currently working on my physic's bachelor
 - You can use my LaTeX Templates
 
 
